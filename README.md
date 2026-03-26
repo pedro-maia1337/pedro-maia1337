@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="top" width="40%">
-      <img src="image_gustave_dore.jpg" width="100%">
+      <img src="image_gustave_dore" width="100%">
     </td>
     <td valign="top" width="60%">
       <h1>Pedro Maia</h1>
