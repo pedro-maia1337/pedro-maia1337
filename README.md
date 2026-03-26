@@ -1,16 +1,38 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td valign="top" width="40%">
+      <img src="image_gustave_dore.jpg" width="100%">
+    </td>
+    
+    <td valign="top" width="60%">
+      
+      <h1>Pedro Maia</h1>
+      <p>
+        Spftware Engineer and Computer Science student at PUC Minas, with an interest in functional programming, parallel computing, and the development of scalable systems
+      </p>
 
-<!--
-**pedro-maia1337/pedro-maia1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      <h2>Areas of interest</h2>
+      <ul>
+        <li>Functional Programming</li>
+        <li>Parallel Computing</li>
+        <li>Backend Development</li>
+        <li>Infrastructure</li>
+        <li>Social Impact Projects</li>
+      </ul>
 
-Here are some ideas to get you started:
+      <h2>Skills</h2>
+      <ul>
+        <li><b>Languages:</b> C, Java, Python, JavaScript, Python</li>
+        <li><b>Frameworks/Bibliotecas:</b> Node.js, Spring Boot</li>
+        <li><b>Tools:</b> Git, Docker, LaTex</li>
+        <li><b>Databases:</b> PostgreSQL</li>
+      </ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      <h2>Contato</h2>
+      <ul>
+        <li>Email: <a href="pedro.maia1337@gmail.com">pedro.maia1337@gmail.com</a></li>
+      </ul>
+
+    </td>
+  </tr>
+</table>
